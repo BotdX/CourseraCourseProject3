@@ -27,7 +27,7 @@ All rows correspond to means of the variable for that Subject and Activity.
 
 VARIABLES:
 
-"Subject" \\
+"Subject"
 "Activity" 
 "tBodyAccmeanX.mean" 
 "tBodyAccmeanY.mean" 
